@@ -1,0 +1,5 @@
+/**
+ * Exemplo Algaworks
+ */
+
+alert('Olá!');
