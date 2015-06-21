@@ -39,5 +39,10 @@
 			javax.enterprise.inject.spi.BeanManager
 		</resource-env-ref-type>
 	</resource-env-ref>
+	
+	<context-param>
+	<param-name>primefaces.THEME</param-name>
+	<param-value>midnight</param-value>
+	</context-param>
 
 </web-app>
